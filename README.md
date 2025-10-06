@@ -7,9 +7,6 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, and Databases**
 - 📫 How to reach me: **elinahjoki@gmail.com**
 - ⚡ Fun fact: I love creating beautiful, user-friendly websites.
-
-![Snake animation](https://raw.githubusercontent.com/elinahjoki/elinahjoki/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ## 🌐 Socials:
