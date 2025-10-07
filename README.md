@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on **building responsive web interfaces**
 - 🌱 I’m currently learning **JavaScript and MySQL**
 - 💬 Ask me about **HTML, CSS, JavaScript, and Databases**
-- 📫 How to reach me: **elinahjoki@gmail.com**
-- ⚡ Fun fact: I love creating beautiful, user-friendly websites.
----
+- 📫 How to reach me: **kailuelinah@gmail.com**
+
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/elinahjoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
